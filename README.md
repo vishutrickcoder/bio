@@ -68,6 +68,9 @@ I deliver a **punch** to any and all bugs!
 
 | Xcode    | VS Code   | Sublime Text | Postman   |
 |----------|-----------|--------------|-----------|
-| ![Xcode](https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png) | ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) | ![Sublime Text](https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png) | ![Postman](https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png) |
+| Xcode    | VS Code   | Sublime Text | Postman   |
+|----------|-----------|--------------|-----------|
+| <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="100" height="100" alt="Xcode"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100" height="100" alt="VS Code"> | <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="100" height="100" alt="Sublime Text"> | <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="100" height="100" alt="Postman"> |
+
 
 
